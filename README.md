@@ -28,6 +28,6 @@ A Tapedin (Teipedin) é uma forma de unir toda a história de sua vida em um só
 
 Vamos entrar nessa jornada e compartilhar momentos incríveis!
 
-**Instagram:** https://instagram.com/tapedin
-**Twitter:** https://twitter.com/tapedin
-**Facebook:** https://facebook.com/tapedin
+**Instagram:** https://instagram.com/tapedin <br/>
+**Twitter:** https://twitter.com/tapedin <br/>
+**Facebook:** https://facebook.com/tapedin <br/>
