@@ -6,7 +6,7 @@
 
 Tapedin (Teipedin) é uma **rede social** desenvolvida por **Hubert Ryan**, onde podemos compartilhar **momentos especiais** das nossas vidas com fotos e vídeos, permitindo que outras pessoas possam deixar as **reações** delas com boomerang e funções que te façam sentir o modo diferente de se usar uma rede social. Você pode fazer reações nas postagens de seus amigos ou de outras pessoas com vários boomerangs que duram 24 horas e começar a seguir conteúdos que você mais gosta.
 
-Google Play: https://play.google.com/store/com.tapedin.tapedin
+**Google Play:** https://play.google.com/store/apps/details?id=com.tapedin.tapedin
 
 ## Oque é Tape (Teipe)?
 
