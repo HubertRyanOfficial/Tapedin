@@ -4,7 +4,7 @@
 
 # Tapedin
 
-Tapedin (Teipedin) é uma rede social onde podemos compartilhar momentos especiais das nossas vidas com fotos e vídeos, permitindo que outras pessoas possam deixar as reações delas com boomerang e funções que te façam sentir o modo diferente de se usar uma rede social. Você pode fazer reações nas postagens de seus amigos ou de outras pessoas com vários boomerangs que duram 24 horas e começar a seguir conteúdos que você mais gosta.
+Tapedin (Teipedin) é uma **rede social** onde podemos compartilhar **momentos especiais** das nossas vidas com fotos e vídeos, permitindo que outras pessoas possam deixar as **reações** delas com boomerang e funções que te façam sentir o modo diferente de se usar uma rede social. Você pode fazer reações nas postagens de seus amigos ou de outras pessoas com vários boomerangs que duram 24 horas e começar a seguir conteúdos que você mais gosta.
 
 Google Play: https://play.google.com/store/com.tapedin.tapedin
 
@@ -22,4 +22,12 @@ Mais sobre o Tapedin (Teipedin)...
 
 A Tapedin (Teipedin) é uma forma de unir toda a história de sua vida em um só lugar. Caso você seja uma pessoa extrovertida que gosta de ver as reações das pessoas, se registre e entre nessa jornada.
 
-#euusootapedin e você?
+> Important: #euusootapedin e você?
+
+## Conecte-se com a Tapedin
+
+Vamos entrar nessa jornada e compartilhar momentos incríveis!
+
+**Instagram:** https://instagram.com/tapedin
+**Twitter:** https://twitter.com/tapedin
+**Facebook:** https://facebook.com/tapedin
